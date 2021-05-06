@@ -1,3 +1,17 @@
+body{
+    background-image: url(../images/bg-curvy-mobile.svg);
+    background-position-y: 360px;
+    
+}
+
+.layer{
+    top: 31em;
+}
+
+.s1{
+    z-index: 2;
+}
+
 #flyo img{
     height: 50%;
     width: 50%;
@@ -14,6 +28,7 @@
 
 .s11{
     width: 97%;
+    margin-top: 80px;
     /* font-size: rem; */
     /* background-color: yellow; */
 }
@@ -120,8 +135,8 @@
 }
 
 .form{
-    display: none;
-    top: 3800px;
+    /* display: none; */
+    top: 3350px;
     width: 90%;
     /* height: 380px; */
     height: auto;
@@ -130,7 +145,7 @@
 }
 
 .fcont{
-    margin-bottom: 5px;
+    margin-bottom: 30px;
 }
 
 .fbottom{
@@ -146,6 +161,7 @@ form{
     align-items: center;
     justify-content: center;
     width: 100%;
+    margin-right: 0px;
 }
 
 input{
@@ -153,6 +169,7 @@ input{
     width: 90%;
     /* padding-left: 10px; */
     margin-left: 0px;
+    /* margin-right: 0px; */
     box-sizing: border-box;
 }
 
@@ -168,12 +185,16 @@ footer{
     height: auto;
 }
 
+.ftop{
+    margin-top: 250px;
+}
+
 .fbbottom{
     flex-direction: column;
 }
 
 .ftop_img{
-    margin-left: 20px;
+    margin-left: 33px;
 }
 
 .fb1,
@@ -185,6 +206,7 @@ footer{
 
 .fb1{
     padding-left: 18px;
+    margin-top: 10px;
 }
 
 .fb2{
@@ -209,3 +231,22 @@ footer{
     margin-bottom: 20px;
 }
 
+.fb4{
+    margin-top: 50px;
+}
+
+.fb4_img{
+    height: 8%;
+    width: 8%;
+}
+
+.fb4 img:hover{
+    filter: invert(20%);
+    /* background-color: teal; */
+    cursor: pointer;
+}
+
+#tw{
+    margin-left: 20px;
+    margin-right: 20px;
+}
