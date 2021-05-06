@@ -1,0 +1,211 @@
+#flyo img{
+    height: 50%;
+    width: 50%;
+}
+
+.navbar ul {
+    /* overflow: auto; */
+    /* height: 0px; */
+}
+
+.s1{
+    width: 100%;
+}
+
+.s11{
+    width: 97%;
+    /* font-size: rem; */
+    /* background-color: yellow; */
+}
+
+.s1i{
+    /* width: 100%;
+    max-width: 500px; */
+    
+}
+
+.s1_img{
+    /* width: 100%;
+    height: auto; */
+}
+
+.s12{
+    width: 90%;
+    /* font-size: 1.5rem; */
+}
+
+.s2{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    margin-left: 0px;
+}
+
+.s2top, .s2bottom{
+    /* display: flex;
+    align-items: center;
+    justify-content: center; */
+    flex-direction: column;
+}
+
+.data{
+    display: flex;
+    flex-direction: column;
+    width: 80%;
+    margin: 0px;
+    padding: 0px;
+    /* height: 200px; */
+    height: auto;
+    margin-bottom: 50px;
+}
+
+.s3{
+    flex-direction: column;
+    height: auto;
+}
+
+.s31{
+    /* margin-left: 0px; */
+}
+
+.s3top{
+    width: 100%;
+}
+
+.s32{
+    width: 100%;
+}
+
+.s32_title{
+    width: 90%;
+    font-size: 1.3rem;
+}
+
+.s3_cont{
+    width: 90%;
+    font-size: 1rem;
+}
+
+.doi{
+    /* top: 2940px; */
+    top: 2497px;
+    left: 41px;
+    z-index: 5;
+}
+
+.doi img{
+    height: 50%;
+    width: 50%;
+
+}
+
+.s4{
+    flex-direction: column;
+    width: 100%;
+}
+
+.card{
+    width: 70%;
+    margin-bottom: 50px;
+}
+
+.card_cont{
+    font-size: 0.9rem;
+}
+
+#c2{
+    margin: 0px 0px 50px 0px;
+
+}
+
+.form{
+    display: none;
+    top: 3800px;
+    width: 90%;
+    /* height: 380px; */
+    height: auto;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+
+.fcont{
+    margin-bottom: 5px;
+}
+
+.fbottom{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    width: 100%;
+}
+
+form{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+}
+
+input{
+    /* text-align: ; */
+    width: 90%;
+    /* padding-left: 10px; */
+    margin-left: 0px;
+    box-sizing: border-box;
+}
+
+.form button{
+    margin-top: 30px;
+    margin-left: 0px;
+    width: 90%;
+    
+}
+
+footer{
+    /* width: 100%; */
+    height: auto;
+}
+
+.fbbottom{
+    flex-direction: column;
+}
+
+.ftop_img{
+    margin-left: 20px;
+}
+
+.fb1,
+.fb2,
+.fb3,
+.fb4{
+    width: 100%;
+}
+
+.fb1{
+    padding-left: 18px;
+}
+
+.fb2{
+    margin-top: 20px;
+}
+
+#loc{
+    margin-right: 30px;
+}
+
+#phone, #email{
+    margin-left: 20px;
+}
+
+.fb3{
+    flex-direction: column;
+    padding-left: 20px;
+}
+
+.fb31{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
